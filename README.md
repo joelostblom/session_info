@@ -1,2 +1,1 @@
-# session_info
-Print version information for loaded modules in the current session, Python, and the OS.
+This source for this project can be found on GitLab at https://gitlab.com/joelostblom/session_info
